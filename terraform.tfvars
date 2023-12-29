@@ -1,0 +1,5 @@
+project_name  = "shopping"
+project_env   = "prod"
+domain_name   = "rmpaws.cloud"
+hostname      = "shopping-dev"
+zoneid        = "Z00747791I5KYCC3K20SJ"

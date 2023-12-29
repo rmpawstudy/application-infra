@@ -18,7 +18,7 @@ on:
         type: string
         description: 'instance ami'
         required: true
-        defaults: "ami-0a0f1259dd1c90938"
+        default: "ami-0a0f1259dd1c90938"
 
   push:
     branches:
